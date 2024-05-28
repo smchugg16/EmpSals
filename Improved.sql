@@ -36,18 +36,6 @@ RaiseMedian AS (
 SELECT TOP 1 Median_Salary, Median_Raise
 FROM SalaryMedian, RaiseMedian;
 
-------------
-/*a. Write a query to find each employee’s most recent salary.
-b. Write a query to calculate the total amount of money each employee has
-earned since they started working at this company.
-c. Write a query to calculate which department had the highest payroll each
-year.
-d. Provide written explanations of each query in a-c, how each works, and why
-you wrote the query the way you did.
-e. Write a short narrative (two or three paragraphs) summarizing the findings
-and making any recommendations you think appropriate.
-*/
-
 ---Most Recent Salary---
 SELECT EmployeeID, Name, Dept, Salary, StartDate
 FROM (
