@@ -1,9 +1,9 @@
 # Employee Data Analysis 
 ## Overview
-This project contains SQL scripts for performing an exploratory analysis on employee salary data stored in the EmpData database. 
+This project showcases an analysis on employee salary data stored in the EmpData database. (Note: Data is simulated).
 
 ## Methodology
-Data was created using ChatGPT and then inserted into Google Sheets where additional columns and simulated data was added. After this, the data was exported as an excel file and then imported into Microsoft SQL Server, where exploratory analysis was performed. This includes basic statistics, data cleaning, and other various insights into emppolyee salaries and department expenditures. 
+Data was simulated using OpenAI, and further edited in Google Sheets where additional columns were added. After this, the data was exported as an excel file and then imported into Microsoft SQL Server, where exploratory analysis was performed. This includes basic statistics, data cleaning, and other various insights into emppolyee salaries and department expenditures. 
 
 ## Questions
 What are the Minimum, Maximum, Average, Range of Salaries?
