@@ -7,8 +7,11 @@ Data was created using ChatGPT and then inserted into Google Sheets where additi
 
 ## Questions
 What are the Minimum, Maximum, Average, Range of Salaries?
+
 What is Each Employee's most recent salary?
+
 What is the Total Amount of money each employee has earned during their time at the organization?
+
 What department is the highest earning in the organization per year?
 
 ## Outcome
