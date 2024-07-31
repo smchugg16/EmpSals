@@ -1,21 +1,21 @@
 # Employee Data Analysis
 
-## Overview
+## Overview:
 
 This project showcases an analysis of employee salary data stored in the EmpData database. (Note: Data is simulated).
 
-## Methodology
+## Methodology:
 
 Data was simulated using OpenAI and further edited in Google Sheets, where additional columns were added. After this, the data was exported as an Excel file and then imported into Microsoft SQL Server, where exploratory analysis was performed. This includes basic statistics, data cleaning, and various insights into employee salaries and department expenditures.
 
-## Questions Addressed
+## Questions:
 
 - What are the minimum, maximum, average, and range of salaries?
 - What is each employee's most recent salary?
 - What is the total amount of money each employee has earned during their time at the organization?
 - Which department is the highest earning in the organization per year?
 
-## Outcome
+## Outcomes:
 
 The analysis of the company’s salary data reveals several key insights into workplace dynamics and financial management practices:
 
