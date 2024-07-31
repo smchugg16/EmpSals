@@ -11,7 +11,7 @@ This project contains SQL scripts for performing an exploratory analysis on empl
 -Highest Paid Department per year 
 
 ## Outcome
-The analysis of the company’s salary data reveals several key insights into workplace dynamic and financial management practices. The data showcases a range of annualsalaries from $45,000 to $87,000, the range being $42,000. The mean salary of$68,000, being close to the average of the minimum and maximum, $66,000. This suggests a relatively balanced distribution in salary, noting the importance of regular salary reviews and equitable pay practices to retain employees and keep them satisfied.
+The analysis of the company’s salary data reveals several key insights into workplace dynamic and financial management practices. The data showcases a range of annualsalaries from $45,000 to $87,000, the range being $42,000. The mean salary of $68,000, being close to the average of the minimum and maximum, $66,000. This suggests a relatively balanced distribution in salary, noting the importance of regular salary reviews and equitable pay practices to retain employees and keep them satisfied.
 
 It was determined that the Finance department, year after year, was most consistently the highest earning department in the organization. What this might suggest is their role being vital to the organization. On other hand, it can raise questions about periodic budget assessments, making sure that payroll aligns with organizational objectives.
 
